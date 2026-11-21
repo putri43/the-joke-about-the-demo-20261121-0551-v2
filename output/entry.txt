@@ -1,0 +1,1 @@
+My AI pair programmer built the whole demo in 40 seconds, then spent the whole meeting demoing features that don't exist yet — with total confidence.
